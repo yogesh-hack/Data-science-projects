@@ -1,8 +1,6 @@
-# Codsoft Data Science Internship
+# Data Science projects
 
 ## Introduction
-
-I am thrilled to share my journey during the Codsoft Data Science Internship, where I had the opportunity to work on three exciting projects that delved into different aspects of data science. This internship has been an invaluable learning experience, and I am excited to showcase the results of my hard work.
 
 ## Task 1: Titanic Survival Prediction
 
